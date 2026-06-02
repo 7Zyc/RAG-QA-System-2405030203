@@ -55,3 +55,6 @@ Thumbs.db
 uploads/
 tmp/
 temp/
+
+# 临时依赖（沙箱安装用）
+pkg/
